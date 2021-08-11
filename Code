@@ -6,6 +6,6 @@
   <body>
     <h1> heading </h1>
     <p> paragraph 1 <b> bold </b> text (use <br/> for line breaks) </p>
-    <img src = "Image URL"  alt = "Alternate Text" />    <!-- insert image, in which alt specifies alternate text for image (in case image cannot be displayed)  -->
+    <img src = "Image URL"  alt = "Alternate Text" />    <!--  insert image, in which alt specifies alternate text for image (in case image cannot be displayed)  -->
   </body>
 </html>
